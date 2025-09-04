@@ -1,0 +1,1026 @@
+age,chest pain,heart pain,exercise pain,oldpeak,number of blood vessels,blood disorder,target
+52,heart related pain,168,no angina,1,2,reversable defect,0
+53,heart related pain,155,present angina,3.1,0,reversable defect,0
+70,heart related pain,125,present angina,2.6,0,reversable defect,0
+61,heart related pain,161,no angina,0,1,reversable defect,0
+62,heart related pain,106,no angina,1.9,3,fixed defect,0
+58,heart related pain,122,no angina,1,0,fixed defect,1
+58,heart related pain,140,no angina,4.4,3,normal,0
+55,heart related pain,145,present angina,0.8,1,reversable defect,0
+46,heart related pain,144,no angina,0.8,0,reversable defect,0
+54,heart related pain,116,present angina,3.2,2,fixed defect,0
+71,heart related pain,125,no angina,1.6,0,fixed defect,1
+43,heart related pain,136,present angina,3,0,reversable defect,0
+34,non heart related,192,no angina,0.7,0,fixed defect,1
+51,heart related pain,122,present angina,4.2,3,reversable defect,0
+52,heart related pain,156,present angina,1,0,normal,0
+34,non heart related,192,no angina,0.7,0,fixed defect,1
+51,not heart pain,142,no angina,1.5,1,fixed defect,1
+54,heart related pain,109,present angina,2.2,1,reversable defect,0
+50,non heart related,162,no angina,1.1,0,fixed defect,1
+58,not heart pain,165,no angina,0,0,fixed defect,1
+60,not heart pain,155,no angina,3,0,fixed defect,0
+67,heart related pain,142,no angina,0.3,2,fixed defect,1
+45,heart related pain,148,present angina,3,0,fixed defect,1
+63,not heart pain,172,no angina,0,0,fixed defect,1
+42,not heart pain,173,no angina,0,0,fixed defect,1
+61,heart related pain,146,present angina,1,0,reversable defect,0
+44,not heart pain,179,present angina,0.4,0,fixed defect,1
+58,non heart related,152,no angina,0,2,fixed defect,0
+56,not heart pain,142,present angina,0.6,1,normal,0
+55,heart related pain,117,present angina,3.4,0,fixed defect,0
+44,heart related pain,144,present angina,2.8,0,normal,0
+50,non heart related,162,no angina,1.1,0,fixed defect,1
+57,heart related pain,115,present angina,1.2,1,reversable defect,0
+70,not heart pain,112,present angina,2.9,1,reversable defect,0
+50,not heart pain,163,no angina,0,0,fixed defect,1
+46,not heart pain,147,no angina,3.6,0,fixed defect,0
+51,asymptomatic pain,125,present angina,1.4,1,fixed defect,1
+59,heart related pain,182,no angina,0,0,fixed defect,1
+64,heart related pain,105,present angina,0.2,1,reversable defect,1
+57,not heart pain,150,no angina,0.4,1,reversable defect,0
+65,not heart pain,151,no angina,0.8,0,fixed defect,1
+54,not heart pain,147,no angina,0.4,0,reversable defect,1
+61,heart related pain,169,no angina,0,0,fixed defect,0
+46,heart related pain,144,no angina,0.8,0,reversable defect,0
+55,non heart related,166,no angina,1.2,0,fixed defect,1
+42,heart related pain,178,no angina,0,0,fixed defect,1
+41,non heart related,132,no angina,0,0,normal,1
+66,heart related pain,165,present angina,1,2,reversable defect,0
+66,not heart pain,152,no angina,0,1,fixed defect,1
+60,heart related pain,160,present angina,1.4,2,reversable defect,0
+58,asymptomatic pain,162,no angina,1,0,fixed defect,1
+57,heart related pain,123,present angina,0.2,0,reversable defect,0
+38,not heart pain,173,no angina,0,4,fixed defect,1
+49,not heart pain,139,no angina,2,3,reversable defect,0
+55,heart related pain,111,present angina,5.6,0,reversable defect,0
+55,heart related pain,111,present angina,5.6,0,reversable defect,0
+56,asymptomatic pain,162,no angina,1.9,0,reversable defect,1
+48,non heart related,180,no angina,0.2,0,fixed defect,1
+67,not heart pain,150,no angina,0.8,0,reversable defect,0
+57,non heart related,164,no angina,0,1,fixed defect,0
+29,non heart related,202,no angina,0,0,fixed defect,1
+66,not heart pain,152,no angina,0,1,fixed defect,1
+67,heart related pain,125,present angina,0.9,2,fixed defect,0
+59,not heart pain,157,no angina,1.6,0,fixed defect,1
+29,non heart related,202,no angina,0,0,fixed defect,1
+59,asymptomatic pain,159,no angina,0.2,0,reversable defect,0
+53,not heart pain,152,no angina,1.2,0,fixed defect,1
+42,heart related pain,125,present angina,1.8,0,normal,0
+37,not heart pain,170,no angina,0,0,fixed defect,1
+62,heart related pain,145,no angina,6.2,3,reversable defect,0
+59,heart related pain,140,present angina,3.4,0,reversable defect,0
+61,heart related pain,138,present angina,1.9,1,reversable defect,0
+56,heart related pain,144,present angina,1.2,1,fixed defect,0
+59,heart related pain,162,present angina,0,1,reversable defect,0
+48,heart related pain,150,present angina,0,2,reversable defect,0
+47,not heart pain,156,no angina,0,0,fixed defect,1
+48,not heart pain,175,no angina,0,2,fixed defect,1
+63,heart related pain,144,present angina,4,2,reversable defect,0
+52,non heart related,158,no angina,0.8,1,fixed defect,1
+52,non heart related,158,no angina,0.8,1,fixed defect,1
+50,not heart pain,163,no angina,0.6,1,reversable defect,0
+49,not heart pain,126,no angina,0.8,3,fixed defect,0
+46,not heart pain,147,no angina,3.6,0,fixed defect,0
+38,not heart pain,173,no angina,0,4,fixed defect,1
+37,not heart pain,170,no angina,0,0,fixed defect,1
+44,non heart related,170,no angina,0,0,fixed defect,1
+58,not heart pain,165,no angina,0,0,fixed defect,1
+59,heart related pain,143,present angina,0,0,fixed defect,0
+62,heart related pain,160,no angina,3.6,2,fixed defect,0
+68,heart related pain,141,no angina,3.4,2,reversable defect,0
+54,not heart pain,167,no angina,0,0,fixed defect,1
+62,heart related pain,163,no angina,0,0,fixed defect,1
+63,heart related pain,144,present angina,4,2,reversable defect,0
+44,heart related pain,144,present angina,2.8,0,normal,0
+62,non heart related,140,no angina,0,0,fixed defect,1
+45,heart related pain,152,present angina,0.2,0,fixed defect,1
+57,heart related pain,159,no angina,0,1,fixed defect,1
+53,heart related pain,95,present angina,2,2,reversable defect,0
+65,heart related pain,158,no angina,0.6,2,normal,0
+76,not heart pain,116,no angina,1.1,0,fixed defect,1
+43,not heart pain,165,no angina,0.2,0,fixed defect,1
+57,not heart pain,173,no angina,0.2,1,reversable defect,1
+54,non heart related,156,no angina,0,0,reversable defect,1
+47,not heart pain,156,no angina,0,0,fixed defect,1
+52,asymptomatic pain,190,no angina,0,0,normal,1
+47,heart related pain,118,present angina,1,1,fixed defect,0
+51,heart related pain,173,present angina,1.6,0,reversable defect,0
+62,non heart related,103,no angina,1.4,1,reversable defect,0
+40,heart related pain,181,no angina,0,0,reversable defect,0
+54,heart related pain,108,present angina,0,1,fixed defect,0
+44,heart related pain,177,no angina,0,1,fixed defect,0
+53,heart related pain,111,present angina,0,0,reversable defect,1
+48,heart related pain,150,present angina,0,2,reversable defect,0
+57,heart related pain,143,present angina,3,1,reversable defect,0
+59,not heart pain,134,no angina,2.2,1,normal,0
+61,heart related pain,146,present angina,1,0,reversable defect,0
+63,heart related pain,147,no angina,1.4,1,reversable defect,0
+43,heart related pain,120,present angina,2.5,0,reversable defect,0
+29,non heart related,202,no angina,0,0,fixed defect,1
+42,non heart related,162,no angina,0,0,fixed defect,1
+54,non heart related,156,no angina,0,0,reversable defect,1
+44,heart related pain,144,present angina,2.8,0,normal,0
+60,heart related pain,142,present angina,2.8,2,reversable defect,0
+65,not heart pain,157,no angina,0.8,1,fixed defect,1
+61,heart related pain,140,present angina,3.6,1,reversable defect,0
+60,asymptomatic pain,171,no angina,0.9,0,fixed defect,1
+66,heart related pain,151,no angina,0.4,0,fixed defect,1
+53,not heart pain,152,no angina,1.2,0,fixed defect,1
+52,not heart pain,169,no angina,0,4,fixed defect,1
+57,heart related pain,148,no angina,0.4,0,normal,1
+60,asymptomatic pain,171,no angina,0.9,0,fixed defect,1
+51,not heart pain,149,no angina,0.5,0,fixed defect,1
+41,non heart related,132,no angina,0,0,normal,1
+50,not heart pain,163,no angina,0,0,fixed defect,1
+54,non heart related,156,no angina,0,0,reversable defect,1
+58,heart related pain,146,present angina,2.8,2,normal,0
+55,non heart related,166,no angina,1.2,0,fixed defect,1
+64,heart related pain,154,present angina,0,0,fixed defect,1
+47,not heart pain,156,no angina,0,0,fixed defect,1
+41,non heart related,153,no angina,0,0,fixed defect,1
+57,heart related pain,88,present angina,1.2,1,reversable defect,0
+63,heart related pain,136,present angina,0,0,fixed defect,0
+61,asymptomatic pain,145,no angina,2.6,2,fixed defect,0
+34,asymptomatic pain,174,no angina,0,0,fixed defect,1
+47,heart related pain,143,no angina,0.1,0,fixed defect,1
+40,heart related pain,114,present angina,2,0,reversable defect,0
+51,not heart pain,157,no angina,0.6,0,fixed defect,1
+41,heart related pain,158,no angina,0,0,reversable defect,0
+52,asymptomatic pain,178,no angina,1.2,0,reversable defect,1
+39,not heart pain,182,no angina,0,0,fixed defect,1
+58,heart related pain,140,no angina,4.4,3,normal,0
+54,non heart related,195,no angina,0,1,reversable defect,0
+58,heart related pain,171,no angina,0,2,reversable defect,0
+54,not heart pain,147,no angina,0.4,0,reversable defect,1
+63,heart related pain,132,present angina,1.8,3,reversable defect,0
+54,non heart related,156,no angina,0,0,reversable defect,1
+40,asymptomatic pain,178,present angina,1.4,0,reversable defect,1
+54,not heart pain,147,no angina,0.4,0,reversable defect,1
+67,not heart pain,160,no angina,1.6,0,reversable defect,1
+41,non heart related,182,no angina,0,0,fixed defect,1
+77,heart related pain,162,present angina,0,3,fixed defect,0
+51,not heart pain,143,present angina,1.2,0,fixed defect,1
+77,heart related pain,162,present angina,0,3,fixed defect,0
+48,heart related pain,166,no angina,0.5,0,reversable defect,0
+56,heart related pain,144,present angina,1.2,1,fixed defect,0
+59,heart related pain,140,present angina,3.4,0,reversable defect,0
+56,heart related pain,105,present angina,2.1,1,normal,0
+57,heart related pain,163,present angina,0.6,0,fixed defect,1
+43,not heart pain,162,no angina,1.9,1,fixed defect,1
+45,non heart related,138,no angina,0,0,fixed defect,1
+43,heart related pain,171,no angina,1.5,0,fixed defect,1
+56,heart related pain,103,present angina,1.6,0,reversable defect,0
+56,non heart related,169,no angina,0,0,fixed defect,1
+39,not heart pain,179,no angina,0,0,fixed defect,1
+54,heart related pain,126,present angina,2.8,1,reversable defect,0
+56,heart related pain,133,present angina,4,2,reversable defect,0
+56,heart related pain,103,present angina,1.6,0,reversable defect,0
+64,heart related pain,96,present angina,2.2,1,fixed defect,0
+44,heart related pain,177,no angina,0,1,fixed defect,0
+56,heart related pain,150,present angina,1.9,2,reversable defect,0
+63,heart related pain,144,present angina,4,2,reversable defect,0
+64,asymptomatic pain,144,present angina,1.8,0,fixed defect,1
+60,heart related pain,170,no angina,1.2,2,reversable defect,0
+42,not heart pain,150,no angina,0,0,fixed defect,1
+45,non heart related,170,no angina,0,0,fixed defect,1
+57,heart related pain,124,no angina,1,3,reversable defect,0
+40,heart related pain,114,present angina,2,0,reversable defect,0
+56,heart related pain,144,present angina,1.2,1,fixed defect,0
+63,heart related pain,147,no angina,1.4,1,reversable defect,0
+64,not heart pain,131,present angina,1.8,0,reversable defect,0
+41,not heart pain,179,no angina,0,0,fixed defect,1
+56,non heart related,163,no angina,0,0,reversable defect,1
+67,not heart pain,160,no angina,1.6,0,reversable defect,1
+69,asymptomatic pain,131,no angina,0.1,1,fixed defect,1
+67,heart related pain,108,present angina,1.5,3,fixed defect,0
+59,not heart pain,157,no angina,1.6,0,fixed defect,1
+58,heart related pain,156,no angina,0.1,1,reversable defect,0
+45,heart related pain,185,no angina,0,0,fixed defect,1
+60,not heart pain,160,no angina,0,1,fixed defect,1
+50,heart related pain,126,present angina,0.9,0,reversable defect,0
+62,heart related pain,163,no angina,0,0,fixed defect,1
+34,asymptomatic pain,174,no angina,0,0,fixed defect,1
+52,asymptomatic pain,178,no angina,1.2,0,reversable defect,1
+64,asymptomatic pain,155,no angina,0.6,0,reversable defect,1
+66,not heart pain,152,no angina,0,1,fixed defect,1
+42,asymptomatic pain,178,no angina,0.8,2,fixed defect,1
+59,not heart pain,134,no angina,2.2,1,normal,0
+41,not heart pain,179,no angina,0,0,fixed defect,1
+38,not heart pain,173,no angina,0,4,fixed defect,1
+62,non heart related,103,no angina,1.4,1,reversable defect,0
+42,not heart pain,194,no angina,0.8,0,reversable defect,1
+67,heart related pain,125,present angina,0.9,2,fixed defect,0
+50,heart related pain,128,no angina,2.6,0,reversable defect,0
+43,not heart pain,162,no angina,1.9,1,fixed defect,1
+45,non heart related,170,no angina,0,0,fixed defect,1
+49,non heart related,171,no angina,0.6,0,fixed defect,1
+65,heart related pain,127,no angina,2.8,1,reversable defect,0
+41,non heart related,182,no angina,0,0,fixed defect,1
+46,heart related pain,120,present angina,1.8,2,reversable defect,0
+54,heart related pain,116,present angina,3.2,2,fixed defect,0
+57,non heart related,174,no angina,0,1,fixed defect,0
+63,heart related pain,147,no angina,1.4,1,reversable defect,0
+64,asymptomatic pain,144,present angina,1.8,0,fixed defect,1
+39,not heart pain,179,no angina,0,0,fixed defect,1
+51,heart related pain,186,present angina,0,0,fixed defect,1
+54,not heart pain,165,no angina,1.6,0,reversable defect,1
+49,not heart pain,126,no angina,0.8,3,fixed defect,0
+44,not heart pain,149,no angina,0.3,1,fixed defect,1
+52,non heart related,184,no angina,0,0,fixed defect,1
+66,heart related pain,165,present angina,1,2,reversable defect,0
+58,heart related pain,171,no angina,0,2,reversable defect,0
+56,non heart related,178,no angina,0.8,0,fixed defect,1
+60,heart related pain,141,present angina,2.8,1,reversable defect,0
+41,non heart related,163,no angina,0,0,fixed defect,1
+49,heart related pain,163,no angina,0,0,fixed defect,1
+64,asymptomatic pain,155,no angina,0.6,0,reversable defect,1
+49,not heart pain,126,no angina,0.8,3,fixed defect,0
+57,non heart related,141,no angina,0.3,0,reversable defect,0
+60,heart related pain,160,present angina,1.4,2,reversable defect,0
+62,heart related pain,154,present angina,1.4,0,fixed defect,0
+54,non heart related,159,present angina,0,1,fixed defect,1
+67,not heart pain,150,no angina,0.8,0,reversable defect,0
+38,not heart pain,173,no angina,0,4,fixed defect,1
+60,not heart pain,155,no angina,3,0,fixed defect,0
+51,not heart pain,166,no angina,2.4,0,fixed defect,1
+44,non heart related,188,no angina,0,0,fixed defect,1
+54,non heart related,195,no angina,0,1,reversable defect,0
+46,heart related pain,120,present angina,1.8,2,reversable defect,0
+39,not heart pain,152,no angina,0,0,fixed defect,1
+42,not heart pain,150,no angina,0,0,fixed defect,1
+47,heart related pain,118,present angina,1,1,fixed defect,0
+45,non heart related,138,no angina,0,0,fixed defect,1
+55,heart related pain,132,present angina,1.2,1,reversable defect,0
+57,heart related pain,124,no angina,1,3,reversable defect,0
+35,heart related pain,130,present angina,1.6,0,reversable defect,0
+62,heart related pain,157,no angina,1.2,0,fixed defect,1
+35,heart related pain,182,no angina,1.4,0,fixed defect,1
+64,heart related pain,154,present angina,0,0,fixed defect,1
+38,asymptomatic pain,182,present angina,3.8,0,reversable defect,0
+66,heart related pain,151,no angina,0.4,0,fixed defect,1
+44,not heart pain,169,no angina,0,0,fixed defect,1
+54,not heart pain,165,no angina,1.6,0,reversable defect,1
+48,heart related pain,186,no angina,0,0,fixed defect,1
+55,non heart related,166,no angina,1.2,0,fixed defect,1
+58,heart related pain,146,present angina,2.8,2,normal,0
+45,heart related pain,148,present angina,3,0,fixed defect,1
+53,heart related pain,95,present angina,2,2,reversable defect,0
+67,heart related pain,71,no angina,1,0,fixed defect,0
+58,not heart pain,173,no angina,3.2,2,reversable defect,0
+71,not heart pain,130,no angina,0,1,fixed defect,1
+43,heart related pain,161,no angina,0,0,reversable defect,1
+44,non heart related,173,no angina,0,0,reversable defect,1
+39,not heart pain,152,no angina,0,0,fixed defect,1
+54,heart related pain,108,present angina,0,1,fixed defect,0
+66,heart related pain,138,no angina,2.3,0,normal,1
+56,heart related pain,103,present angina,1.6,0,reversable defect,0
+57,heart related pain,168,present angina,0,0,reversable defect,1
+44,non heart related,188,no angina,0,0,fixed defect,1
+55,heart related pain,145,present angina,0.8,1,reversable defect,0
+41,non heart related,168,no angina,0,1,fixed defect,1
+45,non heart related,175,no angina,0.6,0,fixed defect,1
+35,non heart related,174,no angina,0,0,fixed defect,1
+41,non heart related,172,no angina,1.4,0,fixed defect,1
+64,asymptomatic pain,144,present angina,1.8,0,fixed defect,1
+58,not heart pain,173,no angina,3.2,2,reversable defect,0
+71,not heart pain,130,no angina,0,1,fixed defect,1
+64,not heart pain,133,no angina,0.2,0,reversable defect,1
+71,non heart related,162,no angina,0.4,2,fixed defect,1
+58,not heart pain,172,no angina,0,0,fixed defect,1
+40,heart related pain,181,no angina,0,0,reversable defect,0
+52,not heart pain,169,no angina,0,4,fixed defect,1
+58,heart related pain,130,present angina,3,2,reversable defect,0
+61,not heart pain,137,present angina,1,0,fixed defect,1
+59,not heart pain,157,no angina,1.6,0,fixed defect,1
+56,heart related pain,133,present angina,4,2,reversable defect,0
+67,heart related pain,125,present angina,0.9,2,fixed defect,0
+67,heart related pain,71,no angina,1,0,fixed defect,0
+58,heart related pain,111,present angina,0.8,0,reversable defect,0
+35,non heart related,174,no angina,0,0,fixed defect,1
+52,non heart related,172,no angina,0.2,0,fixed defect,1
+46,non heart related,172,no angina,0,0,fixed defect,1
+51,not heart pain,154,present angina,0,1,reversable defect,1
+55,non heart related,166,no angina,1.2,0,fixed defect,1
+60,heart related pain,142,present angina,2.8,2,reversable defect,0
+52,not heart pain,169,no angina,0.1,0,fixed defect,1
+62,heart related pain,99,present angina,1.8,2,reversable defect,0
+44,not heart pain,149,no angina,0.3,1,fixed defect,1
+44,non heart related,170,no angina,0,0,fixed defect,1
+59,not heart pain,134,no angina,2.2,1,normal,0
+56,non heart related,153,no angina,1.3,0,fixed defect,1
+61,heart related pain,140,present angina,3.6,1,reversable defect,0
+48,heart related pain,150,present angina,0,2,reversable defect,0
+70,not heart pain,112,present angina,2.9,1,reversable defect,0
+74,non heart related,121,present angina,0.2,1,fixed defect,1
+40,asymptomatic pain,178,present angina,1.4,0,reversable defect,1
+42,asymptomatic pain,178,no angina,0.8,2,fixed defect,1
+64,not heart pain,133,no angina,0.2,0,reversable defect,1
+63,not heart pain,172,no angina,0,0,fixed defect,1
+59,heart related pain,162,present angina,0,1,reversable defect,0
+53,not heart pain,115,no angina,0,0,normal,1
+53,heart related pain,143,no angina,0.4,0,fixed defect,1
+48,not heart pain,139,no angina,0.2,0,fixed defect,1
+45,heart related pain,147,present angina,0,3,reversable defect,0
+66,non heart related,120,present angina,0,3,normal,0
+48,non heart related,180,no angina,0.2,0,fixed defect,1
+56,non heart related,153,no angina,1.3,0,fixed defect,1
+54,non heart related,195,no angina,0,1,reversable defect,0
+57,heart related pain,112,present angina,0.6,1,normal,0
+70,heart related pain,109,no angina,2.4,3,fixed defect,0
+53,not heart pain,115,no angina,0,0,normal,1
+37,not heart pain,170,no angina,0,0,fixed defect,1
+63,heart related pain,169,present angina,1.8,2,fixed defect,0
+37,not heart pain,187,no angina,3.5,0,fixed defect,1
+54,not heart pain,158,no angina,1.6,0,fixed defect,1
+60,heart related pain,132,present angina,2.4,2,reversable defect,0
+58,heart related pain,111,present angina,0.8,0,reversable defect,0
+57,not heart pain,173,no angina,0.2,1,reversable defect,1
+54,not heart pain,152,no angina,0.5,1,fixed defect,1
+56,not heart pain,142,present angina,0.6,1,normal,0
+60,heart related pain,144,present angina,1.4,1,reversable defect,0
+38,not heart pain,173,no angina,0,4,fixed defect,1
+44,not heart pain,169,no angina,0,0,fixed defect,1
+65,not heart pain,148,no angina,0.8,0,fixed defect,1
+52,not heart pain,162,no angina,0.5,0,reversable defect,1
+41,non heart related,182,no angina,0,0,fixed defect,1
+66,non heart related,120,present angina,0,3,normal,0
+50,heart related pain,128,no angina,2.6,0,reversable defect,0
+54,not heart pain,167,no angina,0,0,fixed defect,1
+43,heart related pain,143,present angina,0.1,4,reversable defect,0
+62,not heart pain,97,no angina,1.2,1,reversable defect,0
+66,heart related pain,151,no angina,0.4,0,fixed defect,1
+50,heart related pain,126,present angina,0.9,0,reversable defect,0
+57,heart related pain,143,present angina,3,1,reversable defect,0
+57,heart related pain,126,present angina,1.5,0,normal,1
+57,non heart related,141,no angina,0.3,0,reversable defect,0
+46,heart related pain,152,present angina,0,0,fixed defect,1
+59,heart related pain,90,no angina,1,2,normal,0
+67,heart related pain,108,present angina,1.5,3,fixed defect,0
+59,asymptomatic pain,162,no angina,0.8,2,fixed defect,0
+53,not heart pain,115,no angina,0,0,normal,1
+48,heart related pain,186,no angina,0,0,fixed defect,1
+62,not heart pain,146,no angina,1.8,3,reversable defect,1
+43,not heart pain,165,no angina,0.2,0,fixed defect,1
+53,not heart pain,173,no angina,0,3,fixed defect,1
+57,non heart related,174,no angina,0,1,fixed defect,0
+53,not heart pain,173,no angina,0,3,fixed defect,1
+58,not heart pain,165,no angina,2.5,1,reversable defect,0
+48,non heart related,168,no angina,1,0,reversable defect,0
+58,not heart pain,154,present angina,0.6,0,reversable defect,1
+51,not heart pain,123,no angina,0.6,0,fixed defect,1
+43,heart related pain,136,present angina,3,0,reversable defect,0
+55,heart related pain,132,present angina,1.2,1,reversable defect,0
+54,not heart pain,158,no angina,1.6,0,fixed defect,1
+58,non heart related,160,no angina,1.8,0,fixed defect,0
+46,not heart pain,160,present angina,1.4,0,fixed defect,1
+66,heart related pain,138,no angina,2.3,0,normal,1
+59,non heart related,164,present angina,0,0,fixed defect,1
+64,heart related pain,122,no angina,2,2,fixed defect,1
+67,heart related pain,71,no angina,1,0,fixed defect,0
+52,asymptomatic pain,190,no angina,0,0,normal,1
+58,heart related pain,105,no angina,2,1,reversable defect,0
+58,not heart pain,173,no angina,3.2,2,reversable defect,0
+59,heart related pain,142,present angina,1.2,1,reversable defect,0
+58,heart related pain,111,present angina,0.8,0,reversable defect,0
+35,heart related pain,156,present angina,0,0,reversable defect,0
+51,not heart pain,123,no angina,0.6,0,fixed defect,1
+42,not heart pain,173,no angina,0,0,fixed defect,1
+77,heart related pain,162,present angina,0,3,fixed defect,0
+64,heart related pain,96,present angina,2.2,1,fixed defect,0
+63,asymptomatic pain,150,no angina,2.3,0,normal,1
+58,non heart related,152,no angina,0,2,fixed defect,0
+45,asymptomatic pain,132,no angina,1.2,0,reversable defect,0
+51,not heart pain,123,no angina,0.6,0,fixed defect,1
+62,heart related pain,145,no angina,6.2,3,reversable defect,0
+63,heart related pain,132,present angina,1.8,3,reversable defect,0
+66,not heart pain,152,no angina,0,1,fixed defect,1
+68,not heart pain,150,present angina,1.6,0,reversable defect,0
+40,heart related pain,114,present angina,2,0,reversable defect,0
+66,heart related pain,138,no angina,2.3,0,normal,1
+63,asymptomatic pain,150,no angina,2.3,0,normal,1
+49,not heart pain,139,no angina,2,3,reversable defect,0
+71,heart related pain,125,no angina,1.6,0,fixed defect,1
+70,non heart related,143,no angina,0,0,fixed defect,1
+46,non heart related,172,no angina,0,0,fixed defect,1
+61,heart related pain,138,present angina,1.9,1,reversable defect,0
+56,not heart pain,142,present angina,0.6,1,normal,0
+58,not heart pain,165,no angina,0,0,fixed defect,1
+58,heart related pain,156,no angina,0.1,1,reversable defect,0
+46,heart related pain,152,present angina,0,0,fixed defect,1
+46,not heart pain,147,no angina,3.6,0,fixed defect,0
+41,non heart related,168,no angina,0,1,fixed defect,1
+56,heart related pain,144,present angina,1.2,1,fixed defect,0
+57,heart related pain,112,present angina,0.6,1,normal,0
+70,heart related pain,109,no angina,2.4,3,fixed defect,0
+59,asymptomatic pain,159,no angina,0.2,0,reversable defect,0
+41,non heart related,172,no angina,1.4,0,fixed defect,1
+54,not heart pain,152,no angina,0.5,1,fixed defect,1
+52,not heart pain,169,no angina,0,4,fixed defect,1
+62,heart related pain,163,no angina,0,0,fixed defect,1
+65,not heart pain,151,no angina,0.8,0,fixed defect,1
+57,heart related pain,159,no angina,0,1,fixed defect,1
+42,heart related pain,122,no angina,0.6,0,fixed defect,1
+57,heart related pain,163,present angina,0.6,0,fixed defect,1
+58,non heart related,152,no angina,0,2,fixed defect,0
+45,heart related pain,147,present angina,0,3,reversable defect,0
+51,heart related pain,142,present angina,1.2,0,reversable defect,0
+54,not heart pain,163,no angina,0,1,fixed defect,1
+57,not heart pain,174,no angina,1.6,0,fixed defect,1
+43,heart related pain,143,present angina,0.1,4,reversable defect,0
+47,not heart pain,152,no angina,0,0,fixed defect,0
+67,not heart pain,150,no angina,0.8,0,reversable defect,0
+65,heart related pain,114,no angina,1,3,reversable defect,0
+60,not heart pain,160,no angina,0,1,fixed defect,1
+37,not heart pain,187,no angina,3.5,0,fixed defect,1
+41,not heart pain,172,present angina,0,0,fixed defect,1
+57,heart related pain,163,present angina,0.6,0,fixed defect,1
+59,heart related pain,143,present angina,0,0,fixed defect,0
+67,heart related pain,129,present angina,2.6,2,reversable defect,0
+47,not heart pain,179,no angina,0,0,fixed defect,1
+58,non heart related,160,no angina,1.8,0,fixed defect,0
+62,heart related pain,154,present angina,1.4,0,fixed defect,0
+60,heart related pain,170,no angina,1.2,2,reversable defect,0
+57,heart related pain,88,present angina,1.2,1,reversable defect,0
+57,not heart pain,174,no angina,1.6,0,fixed defect,1
+47,not heart pain,179,no angina,0,0,fixed defect,1
+52,non heart related,184,no angina,0,0,fixed defect,1
+53,not heart pain,173,no angina,0,3,fixed defect,1
+55,heart related pain,145,present angina,0.8,1,reversable defect,0
+51,not heart pain,157,no angina,0.6,0,fixed defect,1
+52,heart related pain,160,no angina,0,1,fixed defect,0
+63,heart related pain,154,no angina,4,3,reversable defect,0
+49,non heart related,162,no angina,0,0,fixed defect,1
+66,heart related pain,165,present angina,1,2,reversable defect,0
+49,non heart related,162,no angina,0,0,fixed defect,1
+65,heart related pain,114,no angina,1,3,reversable defect,0
+69,asymptomatic pain,131,no angina,0.1,1,fixed defect,1
+47,not heart pain,152,no angina,0,0,fixed defect,0
+39,not heart pain,152,no angina,0,0,fixed defect,1
+43,heart related pain,171,no angina,1.5,0,fixed defect,1
+51,heart related pain,186,present angina,0,0,fixed defect,1
+69,not heart pain,146,no angina,2,3,reversable defect,0
+48,not heart pain,175,no angina,0,2,fixed defect,1
+52,asymptomatic pain,190,no angina,0,0,normal,1
+43,heart related pain,161,no angina,0,0,reversable defect,1
+67,not heart pain,160,no angina,1.6,0,reversable defect,1
+38,not heart pain,173,no angina,0,4,fixed defect,1
+44,non heart related,188,no angina,0,0,fixed defect,1
+47,heart related pain,118,present angina,1,1,fixed defect,0
+61,not heart pain,137,present angina,1,0,fixed defect,1
+67,heart related pain,108,present angina,1.5,3,fixed defect,0
+60,asymptomatic pain,171,no angina,0.9,0,fixed defect,1
+64,not heart pain,133,no angina,0.2,0,reversable defect,1
+58,heart related pain,131,no angina,0.6,0,fixed defect,1
+41,not heart pain,168,no angina,2,0,fixed defect,1
+48,non heart related,168,no angina,1,0,reversable defect,0
+57,not heart pain,173,no angina,0.2,1,reversable defect,1
+57,heart related pain,124,no angina,1,3,reversable defect,0
+57,not heart pain,150,no angina,0.4,1,reversable defect,0
+39,not heart pain,182,no angina,0,0,fixed defect,1
+58,heart related pain,131,present angina,2.2,3,reversable defect,0
+51,heart related pain,142,present angina,1.2,0,reversable defect,0
+63,heart related pain,154,no angina,4,3,reversable defect,0
+51,heart related pain,122,present angina,4.2,3,reversable defect,0
+35,non heart related,174,no angina,0,0,fixed defect,1
+65,heart related pain,158,no angina,0.6,2,normal,0
+62,non heart related,103,no angina,1.4,1,reversable defect,0
+41,heart related pain,158,no angina,0,0,reversable defect,0
+65,heart related pain,127,no angina,2.8,1,reversable defect,0
+54,non heart related,159,present angina,0,1,fixed defect,1
+61,not heart pain,137,present angina,1,0,fixed defect,1
+57,heart related pain,159,no angina,0,1,fixed defect,1
+57,not heart pain,174,no angina,1.6,0,fixed defect,1
+64,not heart pain,131,present angina,1.8,0,reversable defect,0
+55,heart related pain,132,present angina,1.2,1,reversable defect,0
+51,not heart pain,166,no angina,2.4,0,fixed defect,1
+59,heart related pain,161,no angina,0.5,0,reversable defect,1
+68,not heart pain,150,present angina,1.6,0,reversable defect,0
+57,non heart related,164,no angina,0,1,fixed defect,0
+54,heart related pain,160,no angina,1.2,0,fixed defect,1
+46,not heart pain,160,present angina,1.4,0,fixed defect,1
+71,heart related pain,125,no angina,1.6,0,fixed defect,1
+35,heart related pain,182,no angina,1.4,0,fixed defect,1
+46,not heart pain,160,present angina,1.4,0,fixed defect,1
+45,non heart related,175,no angina,0.6,0,fixed defect,1
+47,not heart pain,152,no angina,0,0,fixed defect,0
+44,not heart pain,149,no angina,0.3,1,fixed defect,1
+61,heart related pain,140,present angina,3.6,1,reversable defect,0
+41,non heart related,172,no angina,1.4,0,fixed defect,1
+56,heart related pain,133,present angina,4,2,reversable defect,0
+55,heart related pain,117,present angina,3.4,0,fixed defect,0
+54,non heart related,159,present angina,0,1,fixed defect,1
+43,heart related pain,120,present angina,2.5,0,reversable defect,0
+44,heart related pain,153,no angina,0,1,fixed defect,0
+54,heart related pain,108,present angina,0,1,fixed defect,0
+44,non heart related,170,no angina,0,0,fixed defect,1
+49,not heart pain,139,no angina,2,3,reversable defect,0
+60,heart related pain,132,present angina,2.4,2,reversable defect,0
+41,non heart related,168,no angina,0,1,fixed defect,1
+49,not heart pain,139,no angina,2,3,reversable defect,0
+61,heart related pain,161,no angina,0,1,reversable defect,0
+59,heart related pain,162,present angina,0,1,reversable defect,0
+58,non heart related,144,no angina,0.4,4,reversable defect,1
+67,not heart pain,172,no angina,0,1,fixed defect,1
+61,heart related pain,161,no angina,0,1,reversable defect,0
+58,not heart pain,165,no angina,2.5,1,reversable defect,0
+51,not heart pain,149,no angina,0.5,0,fixed defect,1
+62,heart related pain,145,no angina,6.2,3,reversable defect,0
+62,heart related pain,163,no angina,0,0,fixed defect,1
+59,asymptomatic pain,145,no angina,4.2,0,reversable defect,1
+69,asymptomatic pain,131,no angina,0.1,1,fixed defect,1
+60,heart related pain,157,no angina,2.6,2,reversable defect,0
+65,not heart pain,148,no angina,0.8,0,fixed defect,1
+63,heart related pain,136,present angina,0,0,fixed defect,0
+53,heart related pain,160,no angina,0,0,fixed defect,1
+54,not heart pain,167,no angina,0,0,fixed defect,1
+76,not heart pain,116,no angina,1.1,0,fixed defect,1
+50,not heart pain,158,no angina,1.6,0,fixed defect,1
+52,non heart related,172,no angina,0.2,0,fixed defect,1
+46,heart related pain,144,no angina,0.8,0,reversable defect,0
+64,asymptomatic pain,155,no angina,0.6,0,reversable defect,1
+58,heart related pain,130,present angina,3,2,reversable defect,0
+44,not heart pain,180,no angina,0,0,fixed defect,1
+62,heart related pain,157,no angina,1.2,0,fixed defect,1
+59,asymptomatic pain,162,no angina,0.8,2,fixed defect,0
+54,not heart pain,152,no angina,0.5,1,fixed defect,1
+48,non heart related,168,no angina,1,0,reversable defect,0
+70,heart related pain,109,no angina,2.4,3,fixed defect,0
+67,heart related pain,142,no angina,0.3,2,fixed defect,1
+51,not heart pain,157,no angina,0.6,0,fixed defect,1
+68,not heart pain,151,no angina,1,1,reversable defect,1
+69,not heart pain,146,no angina,2,3,reversable defect,0
+54,heart related pain,116,present angina,3.2,2,fixed defect,0
+43,heart related pain,136,present angina,3,0,reversable defect,0
+53,not heart pain,152,no angina,1.2,0,fixed defect,1
+58,heart related pain,156,no angina,0.1,1,reversable defect,0
+67,heart related pain,163,no angina,0.2,2,reversable defect,0
+59,heart related pain,162,present angina,0,1,reversable defect,0
+48,heart related pain,186,no angina,0,0,fixed defect,1
+39,not heart pain,179,no angina,0,0,fixed defect,1
+67,heart related pain,71,no angina,1,0,fixed defect,0
+58,heart related pain,131,no angina,0.6,0,fixed defect,1
+65,not heart pain,148,no angina,0.8,0,fixed defect,1
+42,not heart pain,173,no angina,0,0,fixed defect,1
+44,heart related pain,153,no angina,0,1,fixed defect,0
+56,heart related pain,105,present angina,2.1,1,normal,0
+53,heart related pain,160,no angina,0,0,fixed defect,1
+50,heart related pain,159,no angina,0,0,fixed defect,1
+41,not heart pain,168,no angina,2,0,fixed defect,1
+54,not heart pain,163,no angina,0,1,fixed defect,1
+42,not heart pain,194,no angina,0.8,0,reversable defect,1
+54,not heart pain,170,no angina,0,0,fixed defect,1
+60,heart related pain,142,present angina,2.8,2,reversable defect,0
+34,asymptomatic pain,174,no angina,0,0,fixed defect,1
+44,heart related pain,153,no angina,0,1,fixed defect,0
+60,heart related pain,141,present angina,2.8,1,reversable defect,0
+43,heart related pain,171,no angina,1.5,0,fixed defect,1
+52,asymptomatic pain,178,no angina,1.2,0,reversable defect,1
+70,heart related pain,109,no angina,2.4,3,fixed defect,0
+62,heart related pain,157,no angina,1.2,0,fixed defect,1
+58,heart related pain,105,no angina,2,1,reversable defect,0
+46,non heart related,156,no angina,0,0,reversable defect,1
+44,not heart pain,180,no angina,0,0,fixed defect,1
+55,non heart related,155,no angina,0,0,fixed defect,1
+43,heart related pain,120,present angina,2.5,0,reversable defect,0
+55,heart related pain,132,present angina,1.2,1,reversable defect,0
+40,asymptomatic pain,178,present angina,1.4,0,reversable defect,1
+64,not heart pain,131,present angina,1.8,0,reversable defect,0
+59,heart related pain,90,no angina,1,2,normal,0
+61,heart related pain,146,present angina,1,0,reversable defect,0
+54,heart related pain,116,present angina,3.2,2,fixed defect,0
+74,non heart related,121,present angina,0.2,1,fixed defect,1
+63,heart related pain,169,present angina,1.8,2,fixed defect,0
+70,not heart pain,112,present angina,2.9,1,reversable defect,0
+63,heart related pain,169,present angina,1.8,2,fixed defect,0
+64,heart related pain,132,no angina,2,2,normal,0
+61,heart related pain,161,no angina,0,1,reversable defect,0
+59,non heart related,164,present angina,0,0,fixed defect,1
+38,not heart pain,173,no angina,0,4,fixed defect,1
+58,non heart related,160,no angina,1.8,0,fixed defect,0
+63,non heart related,179,no angina,0,2,fixed defect,1
+62,not heart pain,97,no angina,1.2,1,reversable defect,0
+46,heart related pain,120,present angina,1.8,2,reversable defect,0
+58,not heart pain,172,no angina,0,0,fixed defect,1
+63,non heart related,179,no angina,0,2,fixed defect,1
+47,not heart pain,179,no angina,0,0,fixed defect,1
+71,not heart pain,130,no angina,0,1,fixed defect,1
+66,heart related pain,132,present angina,0.1,1,fixed defect,0
+42,heart related pain,125,present angina,1.8,0,normal,0
+64,heart related pain,132,no angina,2,2,normal,0
+55,heart related pain,117,present angina,3.4,0,fixed defect,0
+43,heart related pain,136,present angina,3,0,reversable defect,0
+55,heart related pain,130,present angina,2,1,reversable defect,0
+58,heart related pain,146,present angina,2.8,2,normal,0
+55,heart related pain,111,present angina,5.6,0,reversable defect,0
+51,heart related pain,142,present angina,1.2,0,reversable defect,0
+50,not heart pain,158,no angina,1.6,0,fixed defect,1
+43,heart related pain,181,no angina,1.2,0,fixed defect,1
+41,non heart related,163,no angina,0,0,fixed defect,1
+49,non heart related,171,no angina,0.6,0,fixed defect,1
+65,heart related pain,158,no angina,0.6,2,normal,0
+57,heart related pain,88,present angina,1.2,1,reversable defect,0
+48,heart related pain,150,present angina,0,2,reversable defect,0
+62,heart related pain,106,no angina,1.9,3,fixed defect,0
+61,asymptomatic pain,145,no angina,2.6,2,fixed defect,0
+59,asymptomatic pain,145,no angina,4.2,0,reversable defect,1
+69,not heart pain,146,no angina,2,3,reversable defect,0
+58,not heart pain,173,no angina,3.2,2,reversable defect,0
+38,asymptomatic pain,182,present angina,3.8,0,reversable defect,0
+69,asymptomatic pain,151,no angina,1.8,2,fixed defect,1
+65,asymptomatic pain,174,no angina,1.4,1,fixed defect,0
+45,asymptomatic pain,132,no angina,1.2,0,reversable defect,0
+49,non heart related,171,no angina,0.6,0,fixed defect,1
+45,non heart related,175,no angina,0.6,0,fixed defect,1
+61,heart related pain,125,present angina,3.6,1,fixed defect,0
+52,heart related pain,168,no angina,1,2,reversable defect,0
+53,heart related pain,143,no angina,0.4,0,fixed defect,1
+59,heart related pain,143,present angina,0,0,fixed defect,0
+58,not heart pain,172,no angina,0,0,fixed defect,1
+65,asymptomatic pain,174,no angina,1.4,1,fixed defect,0
+58,heart related pain,131,no angina,0.6,0,fixed defect,1
+46,heart related pain,152,present angina,0,0,fixed defect,1
+56,heart related pain,150,present angina,1.9,2,reversable defect,0
+64,heart related pain,105,present angina,0.2,1,reversable defect,1
+65,heart related pain,140,no angina,0.4,0,reversable defect,1
+44,not heart pain,169,no angina,0,0,fixed defect,1
+50,heart related pain,128,no angina,2.6,0,reversable defect,0
+47,not heart pain,152,no angina,0,0,fixed defect,0
+64,heart related pain,122,no angina,2,2,fixed defect,1
+71,heart related pain,125,no angina,1.6,0,fixed defect,1
+45,non heart related,175,no angina,0.6,0,fixed defect,1
+62,heart related pain,99,present angina,1.8,2,reversable defect,0
+41,non heart related,182,no angina,0,0,fixed defect,1
+66,asymptomatic pain,114,no angina,2.6,0,fixed defect,1
+56,heart related pain,103,present angina,1.6,0,reversable defect,0
+41,non heart related,163,no angina,0,0,fixed defect,1
+41,non heart related,153,no angina,0,0,fixed defect,1
+57,non heart related,174,no angina,0,1,fixed defect,0
+39,not heart pain,152,no angina,0,0,fixed defect,1
+64,not heart pain,131,present angina,1.8,0,reversable defect,0
+59,heart related pain,182,no angina,0,0,fixed defect,1
+61,heart related pain,125,present angina,3.6,1,fixed defect,0
+58,heart related pain,140,no angina,4.4,3,normal,0
+47,heart related pain,143,no angina,0.1,0,fixed defect,1
+58,heart related pain,122,no angina,1,0,fixed defect,1
+66,asymptomatic pain,114,no angina,2.6,0,fixed defect,1
+65,not heart pain,157,no angina,0.8,1,fixed defect,1
+35,non heart related,174,no angina,0,0,fixed defect,1
+57,non heart related,141,no angina,0.3,0,reversable defect,0
+29,non heart related,202,no angina,0,0,fixed defect,1
+66,non heart related,120,present angina,0,3,normal,0
+61,heart related pain,169,no angina,0,0,fixed defect,0
+52,heart related pain,168,no angina,1,2,reversable defect,0
+68,not heart pain,151,no angina,1,1,reversable defect,1
+54,not heart pain,147,no angina,0.4,0,reversable defect,1
+63,heart related pain,132,present angina,1.8,3,reversable defect,0
+58,heart related pain,156,no angina,0.1,1,reversable defect,0
+60,heart related pain,144,present angina,1.4,1,reversable defect,0
+63,heart related pain,147,no angina,1.4,1,reversable defect,0
+41,not heart pain,172,present angina,0,0,fixed defect,1
+68,not heart pain,150,present angina,1.6,0,reversable defect,0
+42,non heart related,162,no angina,0,0,fixed defect,1
+59,heart related pain,140,present angina,3.4,0,reversable defect,0
+59,heart related pain,90,no angina,1,2,normal,0
+43,heart related pain,120,present angina,2.5,0,reversable defect,0
+60,not heart pain,155,no angina,3,0,fixed defect,0
+63,heart related pain,154,no angina,4,3,reversable defect,0
+52,heart related pain,156,present angina,1,0,normal,0
+58,heart related pain,171,no angina,0,2,reversable defect,0
+56,heart related pain,133,present angina,4,2,reversable defect,0
+54,not heart pain,170,no angina,0,0,fixed defect,1
+58,not heart pain,154,present angina,0.6,0,reversable defect,1
+55,non heart related,161,no angina,1.4,0,fixed defect,1
+53,heart related pain,155,present angina,3.1,0,reversable defect,0
+63,non heart related,179,no angina,0,2,fixed defect,1
+39,heart related pain,140,no angina,1.2,0,reversable defect,0
+35,heart related pain,156,present angina,0,0,reversable defect,0
+50,not heart pain,158,no angina,1.6,0,fixed defect,1
+67,not heart pain,150,no angina,0.8,0,reversable defect,0
+66,heart related pain,132,present angina,0.1,1,fixed defect,0
+35,heart related pain,156,present angina,0,0,reversable defect,0
+41,not heart pain,168,no angina,2,0,fixed defect,1
+35,heart related pain,130,present angina,1.6,0,reversable defect,0
+71,non heart related,162,no angina,0.4,2,fixed defect,1
+57,heart related pain,126,present angina,1.5,0,normal,1
+51,not heart pain,154,present angina,0,1,reversable defect,1
+58,heart related pain,131,present angina,2.2,3,reversable defect,0
+57,not heart pain,150,no angina,0.4,1,reversable defect,0
+56,non heart related,153,no angina,1.3,0,fixed defect,1
+60,not heart pain,96,no angina,0,0,fixed defect,1
+45,asymptomatic pain,132,no angina,1.2,0,reversable defect,0
+56,non heart related,163,no angina,0,0,reversable defect,1
+35,heart related pain,130,present angina,1.6,0,reversable defect,0
+45,non heart related,138,no angina,0,0,fixed defect,1
+66,asymptomatic pain,114,no angina,2.6,0,fixed defect,1
+51,asymptomatic pain,125,present angina,1.4,1,fixed defect,1
+70,non heart related,143,no angina,0,0,fixed defect,1
+55,heart related pain,130,present angina,2,1,reversable defect,0
+56,not heart pain,142,present angina,0.6,1,normal,0
+55,non heart related,161,no angina,1.4,0,fixed defect,1
+52,heart related pain,147,no angina,0.1,3,reversable defect,1
+64,not heart pain,158,no angina,0,0,fixed defect,0
+45,heart related pain,185,no angina,0,0,fixed defect,1
+67,not heart pain,172,no angina,0,1,fixed defect,1
+68,not heart pain,115,no angina,1.5,0,fixed defect,1
+74,non heart related,121,present angina,0.2,1,fixed defect,1
+60,heart related pain,157,no angina,2.6,2,reversable defect,0
+48,heart related pain,166,no angina,0.5,0,reversable defect,0
+56,non heart related,163,no angina,0,0,reversable defect,1
+46,heart related pain,120,present angina,1.8,2,reversable defect,0
+55,non heart related,161,no angina,1.4,0,fixed defect,1
+44,non heart related,170,no angina,0,0,fixed defect,1
+52,heart related pain,160,no angina,0,1,fixed defect,0
+51,not heart pain,154,present angina,0,1,reversable defect,1
+44,not heart pain,175,no angina,0.6,0,fixed defect,1
+52,heart related pain,156,present angina,1,0,normal,0
+50,not heart pain,163,no angina,0,0,fixed defect,1
+59,heart related pain,142,present angina,1.2,1,reversable defect,0
+67,heart related pain,129,present angina,2.6,2,reversable defect,0
+58,heart related pain,171,no angina,0,2,reversable defect,0
+52,heart related pain,161,present angina,0,1,reversable defect,0
+44,not heart pain,180,no angina,0,0,fixed defect,1
+41,not heart pain,172,present angina,0,0,fixed defect,1
+63,heart related pain,132,present angina,1.8,3,reversable defect,0
+58,non heart related,144,no angina,0.4,4,reversable defect,1
+60,not heart pain,160,no angina,0,1,fixed defect,1
+51,not heart pain,143,present angina,1.2,0,fixed defect,1
+64,not heart pain,158,no angina,0,0,fixed defect,0
+60,heart related pain,160,present angina,1.4,2,reversable defect,0
+44,not heart pain,169,no angina,0,0,fixed defect,1
+58,non heart related,144,no angina,0.4,4,reversable defect,1
+55,non heart related,155,no angina,0,0,fixed defect,1
+65,not heart pain,151,no angina,0.8,0,fixed defect,1
+48,non heart related,180,no angina,0.2,0,fixed defect,1
+65,heart related pain,140,no angina,0.4,0,reversable defect,1
+51,not heart pain,149,no angina,0.5,0,fixed defect,1
+48,not heart pain,175,no angina,0,2,fixed defect,1
+64,heart related pain,96,present angina,2.2,1,fixed defect,0
+66,heart related pain,138,no angina,2.3,0,normal,1
+46,non heart related,172,no angina,0,0,fixed defect,1
+61,heart related pain,169,no angina,0,0,fixed defect,0
+57,heart related pain,112,present angina,0.6,1,normal,0
+49,heart related pain,163,no angina,0,0,fixed defect,1
+56,non heart related,163,no angina,0,0,reversable defect,1
+58,asymptomatic pain,162,no angina,1,0,fixed defect,1
+63,heart related pain,144,present angina,4,2,reversable defect,0
+57,heart related pain,143,present angina,3,1,reversable defect,0
+57,heart related pain,143,present angina,3,1,reversable defect,0
+68,heart related pain,141,no angina,3.4,2,reversable defect,0
+46,non heart related,156,no angina,0,0,reversable defect,1
+71,not heart pain,130,no angina,0,1,fixed defect,1
+41,non heart related,132,no angina,0,0,normal,1
+45,heart related pain,152,present angina,0.2,0,fixed defect,1
+62,heart related pain,154,present angina,1.4,0,fixed defect,0
+65,heart related pain,114,no angina,1,3,reversable defect,0
+48,not heart pain,139,no angina,0.2,0,fixed defect,1
+51,not heart pain,143,present angina,1.2,0,fixed defect,1
+61,heart related pain,146,present angina,1,0,reversable defect,0
+53,heart related pain,95,present angina,2,2,reversable defect,0
+59,asymptomatic pain,162,no angina,0.8,2,fixed defect,0
+34,non heart related,192,no angina,0.7,0,fixed defect,1
+44,heart related pain,144,present angina,2.8,0,normal,0
+58,heart related pain,105,no angina,2,1,reversable defect,0
+64,heart related pain,122,no angina,2,2,fixed defect,1
+56,non heart related,169,no angina,0,0,fixed defect,1
+54,not heart pain,165,no angina,1.6,0,reversable defect,1
+55,heart related pain,145,present angina,0.8,1,reversable defect,0
+67,heart related pain,163,no angina,0.2,2,reversable defect,0
+51,heart related pain,122,present angina,4.2,3,reversable defect,0
+62,heart related pain,106,no angina,1.9,3,fixed defect,0
+62,non heart related,103,no angina,1.4,1,reversable defect,0
+54,heart related pain,126,present angina,2.8,1,reversable defect,0
+54,heart related pain,126,present angina,2.8,1,reversable defect,0
+68,heart related pain,141,no angina,3.4,2,reversable defect,0
+60,not heart pain,96,no angina,0,0,fixed defect,1
+61,asymptomatic pain,145,no angina,2.6,2,fixed defect,0
+62,non heart related,140,no angina,0,0,fixed defect,1
+41,non heart related,132,no angina,0,0,normal,1
+65,heart related pain,114,no angina,1,3,reversable defect,0
+59,asymptomatic pain,159,no angina,0.2,0,reversable defect,0
+43,heart related pain,181,no angina,1.2,0,fixed defect,1
+67,heart related pain,129,present angina,2.6,2,reversable defect,0
+63,asymptomatic pain,150,no angina,2.3,0,normal,1
+63,heart related pain,136,present angina,0,0,fixed defect,0
+52,heart related pain,160,no angina,0,1,fixed defect,0
+58,heart related pain,131,no angina,0.6,0,fixed defect,1
+53,heart related pain,111,present angina,0,0,reversable defect,1
+57,heart related pain,112,present angina,0.6,1,normal,0
+44,not heart pain,179,present angina,0.4,0,fixed defect,1
+51,not heart pain,154,present angina,0,1,reversable defect,1
+54,not heart pain,158,no angina,1.6,0,fixed defect,1
+40,heart related pain,114,present angina,2,0,reversable defect,0
+57,non heart related,141,no angina,0.3,0,reversable defect,0
+62,heart related pain,160,no angina,3.6,2,fixed defect,0
+53,heart related pain,155,present angina,3.1,0,reversable defect,0
+62,non heart related,140,no angina,0,0,fixed defect,1
+58,not heart pain,154,present angina,0.6,0,reversable defect,1
+70,non heart related,143,no angina,0,0,fixed defect,1
+45,heart related pain,185,no angina,0,0,fixed defect,1
+42,asymptomatic pain,178,no angina,0.8,2,fixed defect,1
+58,heart related pain,146,present angina,2.8,2,normal,0
+61,heart related pain,138,present angina,1.9,1,reversable defect,0
+62,heart related pain,160,no angina,3.6,2,fixed defect,0
+60,heart related pain,144,present angina,1.4,1,reversable defect,0
+54,heart related pain,160,no angina,1.2,0,fixed defect,1
+61,heart related pain,125,present angina,3.6,1,fixed defect,0
+63,not heart pain,172,no angina,0,0,fixed defect,1
+42,not heart pain,150,no angina,0,0,fixed defect,1
+57,not heart pain,150,no angina,0.4,1,reversable defect,0
+44,not heart pain,179,present angina,0.4,0,fixed defect,1
+54,heart related pain,109,present angina,2.2,1,reversable defect,0
+51,not heart pain,143,present angina,1.2,0,fixed defect,1
+58,non heart related,144,no angina,0.4,4,reversable defect,1
+68,not heart pain,151,no angina,1,1,reversable defect,1
+55,heart related pain,111,present angina,5.6,0,reversable defect,0
+42,heart related pain,125,present angina,1.8,0,normal,0
+49,not heart pain,126,no angina,0.8,3,fixed defect,0
+53,heart related pain,160,no angina,0,0,fixed defect,1
+52,not heart pain,162,no angina,0.5,0,reversable defect,1
+51,asymptomatic pain,125,present angina,1.4,1,fixed defect,1
+51,heart related pain,186,present angina,0,0,fixed defect,1
+70,heart related pain,125,present angina,2.6,0,reversable defect,0
+35,heart related pain,182,no angina,1.4,0,fixed defect,1
+58,not heart pain,165,no angina,2.5,1,reversable defect,0
+59,asymptomatic pain,125,no angina,0,0,fixed defect,0
+60,heart related pain,170,no angina,1.2,2,reversable defect,0
+56,heart related pain,105,present angina,2.1,1,normal,0
+35,heart related pain,182,no angina,1.4,0,fixed defect,1
+61,heart related pain,125,present angina,3.6,1,fixed defect,0
+58,asymptomatic pain,162,no angina,1,0,fixed defect,1
+52,heart related pain,161,present angina,0,1,reversable defect,0
+58,non heart related,160,no angina,1.8,0,fixed defect,0
+37,not heart pain,187,no angina,3.5,0,fixed defect,1
+52,heart related pain,161,present angina,0,1,reversable defect,0
+67,heart related pain,129,present angina,2.6,2,reversable defect,0
+65,asymptomatic pain,174,no angina,1.4,1,fixed defect,0
+46,non heart related,156,no angina,0,0,reversable defect,1
+68,not heart pain,115,no angina,1.5,0,fixed defect,1
+43,heart related pain,181,no angina,1.2,0,fixed defect,1
+68,not heart pain,115,no angina,1.5,0,fixed defect,1
+51,heart related pain,173,present angina,1.6,0,reversable defect,0
+52,heart related pain,160,no angina,0,1,fixed defect,0
+64,not heart pain,158,no angina,0,0,fixed defect,0
+59,asymptomatic pain,159,no angina,0.2,0,reversable defect,0
+52,heart related pain,168,no angina,1,2,reversable defect,0
+59,asymptomatic pain,125,no angina,0,0,fixed defect,0
+60,asymptomatic pain,171,no angina,0.9,0,fixed defect,1
+41,not heart pain,179,no angina,0,0,fixed defect,1
+41,non heart related,153,no angina,0,0,fixed defect,1
+56,non heart related,169,no angina,0,0,fixed defect,1
+56,non heart related,178,no angina,0.8,0,fixed defect,1
+48,not heart pain,139,no angina,0.2,0,fixed defect,1
+39,not heart pain,182,no angina,0,0,fixed defect,1
+64,asymptomatic pain,155,no angina,0.6,0,reversable defect,1
+57,heart related pain,148,no angina,0.4,0,normal,1
+59,asymptomatic pain,125,no angina,0,0,fixed defect,0
+60,heart related pain,132,present angina,2.4,2,reversable defect,0
+61,heart related pain,138,present angina,1.9,1,reversable defect,0
+43,not heart pain,165,no angina,0.2,0,fixed defect,1
+54,heart related pain,113,no angina,1.4,1,reversable defect,0
+59,heart related pain,182,no angina,0,0,fixed defect,1
+57,heart related pain,168,present angina,0,0,reversable defect,1
+57,non heart related,164,no angina,0,1,fixed defect,0
+57,heart related pain,115,present angina,1.2,1,reversable defect,0
+48,heart related pain,166,no angina,0.5,0,reversable defect,0
+70,heart related pain,125,present angina,2.6,0,reversable defect,0
+57,heart related pain,124,no angina,1,3,reversable defect,0
+61,heart related pain,140,present angina,3.6,1,reversable defect,0
+57,heart related pain,126,present angina,1.5,0,normal,1
+60,heart related pain,157,no angina,2.6,2,reversable defect,0
+63,heart related pain,154,no angina,4,3,reversable defect,0
+55,heart related pain,130,present angina,2,1,reversable defect,0
+64,heart related pain,154,present angina,0,0,fixed defect,1
+54,heart related pain,126,present angina,2.8,1,reversable defect,0
+52,heart related pain,156,present angina,1,0,normal,0
+51,heart related pain,173,present angina,1.6,0,reversable defect,0
+62,not heart pain,97,no angina,1.2,1,reversable defect,0
+59,asymptomatic pain,145,no angina,4.2,0,reversable defect,1
+52,non heart related,158,no angina,0.8,1,fixed defect,1
+42,heart related pain,122,no angina,0.6,0,fixed defect,1
+59,heart related pain,161,no angina,0.5,0,reversable defect,1
+61,asymptomatic pain,145,no angina,2.6,2,fixed defect,0
+42,heart related pain,122,no angina,0.6,0,fixed defect,1
+62,heart related pain,160,no angina,3.6,2,fixed defect,0
+59,not heart pain,134,no angina,2.2,1,normal,0
+55,non heart related,155,no angina,0,0,fixed defect,1
+64,heart related pain,96,present angina,2.2,1,fixed defect,0
+42,heart related pain,178,no angina,0,0,fixed defect,1
+50,non heart related,162,no angina,1.1,0,fixed defect,1
+62,heart related pain,99,present angina,1.8,2,reversable defect,0
+50,heart related pain,126,present angina,0.9,0,reversable defect,0
+50,not heart pain,163,no angina,0.6,1,reversable defect,0
+58,non heart related,152,no angina,0,2,fixed defect,0
+35,heart related pain,130,present angina,1.6,0,reversable defect,0
+45,heart related pain,148,present angina,3,0,fixed defect,1
+66,heart related pain,132,present angina,0.1,1,fixed defect,0
+46,heart related pain,144,no angina,0.8,0,reversable defect,0
+65,heart related pain,127,no angina,2.8,1,reversable defect,0
+47,not heart pain,179,no angina,0,0,fixed defect,1
+59,asymptomatic pain,162,no angina,0.8,2,fixed defect,0
+38,asymptomatic pain,182,present angina,3.8,0,reversable defect,0
+39,heart related pain,140,no angina,1.2,0,reversable defect,0
+58,heart related pain,105,no angina,2,1,reversable defect,0
+44,non heart related,173,no angina,0,0,reversable defect,1
+54,heart related pain,160,no angina,1.2,0,fixed defect,1
+61,heart related pain,169,no angina,0,0,fixed defect,0
+57,heart related pain,115,present angina,1.2,1,reversable defect,0
+54,heart related pain,108,present angina,0,1,fixed defect,0
+42,not heart pain,194,no angina,0.8,0,reversable defect,1
+54,heart related pain,109,present angina,2.2,1,reversable defect,0
+60,heart related pain,132,present angina,2.4,2,reversable defect,0
+65,heart related pain,127,no angina,2.8,1,reversable defect,0
+40,heart related pain,181,no angina,0,0,reversable defect,0
+51,not heart pain,142,no angina,1.5,1,fixed defect,1
+38,asymptomatic pain,182,present angina,3.8,0,reversable defect,0
+42,not heart pain,150,no angina,0,0,fixed defect,1
+56,non heart related,169,no angina,0,0,fixed defect,1
+43,not heart pain,162,no angina,1.9,1,fixed defect,1
+64,not heart pain,158,no angina,0,0,fixed defect,0
+53,heart related pain,111,present angina,0,0,reversable defect,1
+49,non heart related,162,no angina,0,0,fixed defect,1
+57,heart related pain,123,present angina,0.2,0,reversable defect,0
+52,not heart pain,169,no angina,0.1,0,fixed defect,1
+69,asymptomatic pain,151,no angina,1.8,2,fixed defect,1
+65,heart related pain,140,no angina,0.4,0,reversable defect,1
+66,heart related pain,165,present angina,1,2,reversable defect,0
+56,asymptomatic pain,162,no angina,1.9,0,reversable defect,1
+67,not heart pain,172,no angina,0,1,fixed defect,1
+54,not heart pain,163,no angina,0,1,fixed defect,1
+70,heart related pain,125,present angina,2.6,0,reversable defect,0
+57,heart related pain,168,present angina,0,0,reversable defect,1
+67,heart related pain,108,present angina,1.5,3,fixed defect,0
+62,not heart pain,97,no angina,1.2,1,reversable defect,0
+54,not heart pain,170,no angina,0,0,fixed defect,1
+45,heart related pain,152,present angina,0.2,0,fixed defect,1
+53,heart related pain,143,no angina,0.4,0,fixed defect,1
+62,not heart pain,146,no angina,1.8,3,reversable defect,1
+49,heart related pain,163,no angina,0,0,fixed defect,1
+50,not heart pain,163,no angina,0.6,1,reversable defect,0
+65,not heart pain,157,no angina,0.8,1,fixed defect,1
+69,asymptomatic pain,151,no angina,1.8,2,fixed defect,1
+52,not heart pain,169,no angina,0.1,0,fixed defect,1
+58,heart related pain,122,no angina,1,0,fixed defect,1
+52,heart related pain,147,no angina,0.1,3,reversable defect,1
+57,heart related pain,123,present angina,0.2,0,reversable defect,0
+44,not heart pain,175,no angina,0.6,0,fixed defect,1
+76,not heart pain,116,no angina,1.1,0,fixed defect,1
+58,heart related pain,130,present angina,3,2,reversable defect,0
+60,not heart pain,96,no angina,0,0,fixed defect,1
+53,heart related pain,155,present angina,3.1,0,reversable defect,0
+52,non heart related,172,no angina,0.2,0,fixed defect,1
+38,not heart pain,173,no angina,0,4,fixed defect,1
+52,not heart pain,162,no angina,0.5,0,reversable defect,1
+52,asymptomatic pain,190,no angina,0,0,normal,1
+51,not heart pain,166,no angina,2.4,0,fixed defect,1
+43,heart related pain,161,no angina,0,0,reversable defect,1
+39,heart related pain,140,no angina,1.2,0,reversable defect,0
+63,heart related pain,169,present angina,1.8,2,fixed defect,0
+52,non heart related,184,no angina,0,0,fixed defect,1
+44,heart related pain,177,no angina,0,1,fixed defect,0
+45,heart related pain,147,present angina,0,3,reversable defect,0
+57,heart related pain,148,no angina,0.4,0,normal,1
+39,heart related pain,140,no angina,1.2,0,reversable defect,0
+67,heart related pain,142,no angina,0.3,2,fixed defect,1
+64,heart related pain,105,present angina,0.2,1,reversable defect,1
+59,heart related pain,161,no angina,0.5,0,reversable defect,1
+62,not heart pain,146,no angina,1.8,3,reversable defect,1
+55,heart related pain,117,present angina,3.4,0,fixed defect,0
+57,non heart related,164,no angina,0,1,fixed defect,0
+60,heart related pain,170,no angina,1.2,2,reversable defect,0
+71,non heart related,162,no angina,0.4,2,fixed defect,1
+56,non heart related,178,no angina,0.8,0,fixed defect,1
+60,heart related pain,160,present angina,1.4,2,reversable defect,0
+50,heart related pain,159,no angina,0,0,fixed defect,1
+43,heart related pain,143,present angina,0.1,4,reversable defect,0
+59,heart related pain,142,present angina,1.2,1,reversable defect,0
+44,non heart related,173,no angina,0,0,reversable defect,1
+56,heart related pain,150,present angina,1.9,2,reversable defect,0
+54,heart related pain,113,no angina,1.4,1,reversable defect,0
+42,heart related pain,125,present angina,1.8,0,normal,0
+67,heart related pain,163,no angina,0.2,2,reversable defect,0
+64,heart related pain,132,no angina,2,2,normal,0
+42,heart related pain,178,no angina,0,0,fixed defect,1
+66,heart related pain,132,present angina,0.1,1,fixed defect,0
+52,heart related pain,147,no angina,0.1,3,reversable defect,1
+51,not heart pain,142,no angina,1.5,1,fixed defect,1
+55,heart related pain,130,present angina,2,1,reversable defect,0
+58,not heart pain,165,no angina,0,0,fixed defect,1
+56,asymptomatic pain,162,no angina,1.9,0,reversable defect,1
+42,non heart related,162,no angina,0,0,fixed defect,1
+40,heart related pain,181,no angina,0,0,reversable defect,0
+51,heart related pain,173,present angina,1.6,0,reversable defect,0
+45,non heart related,170,no angina,0,0,fixed defect,1
+48,non heart related,168,no angina,1,0,reversable defect,0
+58,heart related pain,140,no angina,4.4,3,normal,0
+44,not heart pain,175,no angina,0.6,0,fixed defect,1
+58,heart related pain,131,present angina,2.2,3,reversable defect,0
+65,asymptomatic pain,174,no angina,1.4,1,fixed defect,0
+53,heart related pain,95,present angina,2,2,reversable defect,0
+41,heart related pain,158,no angina,0,0,reversable defect,0
+47,heart related pain,143,no angina,0.1,0,fixed defect,1
+59,non heart related,164,present angina,0,0,fixed defect,1
+60,heart related pain,141,present angina,2.8,1,reversable defect,0
+47,heart related pain,118,present angina,1,1,fixed defect,0
+50,heart related pain,159,no angina,0,0,fixed defect,1
+54,heart related pain,113,no angina,1.4,1,reversable defect,0
