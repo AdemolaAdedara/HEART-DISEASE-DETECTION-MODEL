@@ -24,7 +24,7 @@ The Heart Disease Prediction App uses a trained machine learning model to estima
 To run the app locally, execute:
 
 ```bash
-streamlit run app.py
+streamlit run MAIN.py
 ```
 
 ## Features
@@ -55,7 +55,7 @@ The model is based on a scikit-learn pipeline (see `m_heart.ipynb` for training 
 4. Run the app with Streamlit:
 
    ```bash
-   streamlit run app.py
+   streamlit run MAIN.py
    ```
 
 5. Enter your health information in the web interface and click "Predict" to get results.
