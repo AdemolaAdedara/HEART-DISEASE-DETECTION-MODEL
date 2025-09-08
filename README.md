@@ -77,7 +77,6 @@ pip install pandas numpy scikit-learn streamlit
 
 ## File Structure
 
-```
 - `README.md - Project documentation and introduction.`  
 - `app.py - Main application script; runs the web or backend app.`  
 - `heart dataset.csv - Dataset file containing heart-related data for analysis or model training.`  
@@ -85,8 +84,7 @@ pip install pandas numpy scikit-learn streamlit
 - m_heart.ipynb - Jupyter Notebook; contains code, analysis, and visualizations for the heart disease project.  
 - model.pkl - Serialized (pickled) machine learning model for heart disease prediction.  
 - requirements.txt - List of Python dependencies needed to run the project.
-```
-
+  
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
