@@ -98,3 +98,5 @@ This project is open-source and available under the MIT License.
 ---
 
 **Disclaimer:** This app is for educational purposes only and should not be used for real medical diagnosis.
+
+```
